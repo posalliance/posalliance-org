@@ -1,0 +1,7 @@
+baseURL = "http://posalliance.org/"
+languageCode = "en-us"
+title = "Proof of Stake Alliance"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]

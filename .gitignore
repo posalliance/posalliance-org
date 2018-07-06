@@ -1,0 +1,8 @@
+# MacOS stuff
+.DS_Store
+
+# hugo build directory
+public/
+
+# javascript
+node_modules
