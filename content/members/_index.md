@@ -8,6 +8,7 @@ menu: "main"
  - [CloakCoin](https://www.cloakcoin.com/)
  - [NavCoin](https://navcoin.org)
  - [Peercoin](https://peercoin.net)
+ - [Phore](https://phore.io)
  - [PIVX](https://pivx.org/)
  - [VeriCoin](https://vericoin.info)
  - Unaffiliated / Researchers
