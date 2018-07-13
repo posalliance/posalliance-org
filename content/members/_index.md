@@ -6,6 +6,7 @@ menu: "main"
 
  - [BlackCoin](https://blackcoin.co)
  - [CloakCoin](https://www.cloakcoin.com/)
+ - [MarteXcoin](https://martexcoin.org)
  - [NavCoin](https://navcoin.org)
  - [Peercoin](https://peercoin.net)
  - [Phore](https://phore.io)
