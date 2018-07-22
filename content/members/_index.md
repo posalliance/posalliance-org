@@ -11,6 +11,7 @@ menu: "main"
  - [Phore](https://phore.io)
  - [PIVX](https://pivx.org/)
  - [VeriCoin](https://vericoin.info)
+ - [RPICoin](https://rpicoin.com)
  - Unaffiliated / Researchers
   - gets
   - [complexring](www.matthewniemerg.com)
