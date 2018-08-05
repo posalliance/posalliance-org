@@ -7,6 +7,7 @@ menu: "main"
  - [BlackCoin](https://blackcoin.co)
  - [BitBay](https://bitbay.market/)
  - [CloakCoin](https://www.cloakcoin.com/)
+ - [Decred](https://decred.org)
  - [Hyperstake](http://hyperstake.io/)
  - [LiteDoge](https://ldoge.org/)
  - [NavCoin](https://navcoin.org)
