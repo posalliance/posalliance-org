@@ -4,6 +4,7 @@ menu: "main"
 ---
 ## Current members
 
+ - [BitBay](http://bitbay.market)
  - [BlackCoin](https://blackcoin.co)
  - [BitBay](https://bitbay.market/)
  - [CloakCoin](https://www.cloakcoin.com/)
